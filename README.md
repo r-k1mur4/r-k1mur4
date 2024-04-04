@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=r-k1mur4&color=lightgrey&style=flat-square)
+
 <img align="center" width="1920" src="./image/my-profile.jpg" alt="hello-world" />
 
 <h1 align="center">Hi 👋, I'm RYUKI</h1>
