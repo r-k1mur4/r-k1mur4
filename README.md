@@ -3,7 +3,7 @@
 <img align="center" width="1920" src="./image/my-profile.jpg" alt="hello-world" />
 
 <h1 align="center">Hi 👋, I'm RYUKI</h1>
-<h3 align="center">A passionate frontend developer from Chiba.</h3>
+<h3 align="center">A passionate frontend developer from Tokyo.</h3>
 
 - 🔭 I’m currently working on **Web-based company that operates a video distribution service**
 
